@@ -30,6 +30,6 @@ A vibrant retro 8-bit pixel game finance tracker for **Indian Rupees (₹)** fea
 ## 🚀 Running the Project
 
 The website is running on:
-**[http://localhost:8080](http://localhost:8080)**
+**[http://localhost:8080]([http://localhost:8080](https://fi-nonsense.vercel.app/))**
 
 Or open [index.html](file:///e:/fi-nonsense/index.html) directly in any modern browser!
